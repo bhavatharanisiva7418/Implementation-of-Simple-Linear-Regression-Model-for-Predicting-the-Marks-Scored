@@ -112,7 +112,8 @@ print("RMSE = ",rmse)
 ![alt text](11.png)
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+![alt text](12.png)
+![alt text](13.png)
 
 
 ## Result:
